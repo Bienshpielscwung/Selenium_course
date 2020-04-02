@@ -1,3 +1,3 @@
 # Selenium_course
 autotest
-First_attempt
+https://stepik.org/course/575/
